@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">crud</string>
+    <string name="detail_jurusan">Detail Jurusan</string>
+    <string name="jurusan">Jurusan</string>
+    <string name="fakultas">Fakultas</string>
+    <string name="akreditasi">Akreditasi</string>
+    <string name="jumlah_mahasiswa">Jumlah Mahasiswa</string>
+    <string name="tamat">Tamat</string>
+    <string name="hapus">Hapus</string>
+    <string-array name="akreditasi_list">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+    </string-array>
+
+</resources>
